@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Helton-Santos
+- 👋 Hello, I’m Helton Santos.
 - 👀 I’m interested in create some projects about Cloud and DevOps.
 - 🌱 I’m currently learning about Python, Swarm, Docker and Kubernetes. I have knowledges about cloud AWS services.
 - 💞️ I’m looking for opportunities to collaborate on Cloud and DevOps projects.
